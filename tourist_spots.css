@@ -1,0 +1,60 @@
+body {
+    background-color: AntiqueWhite;
+    padding: 10px;
+}
+
+.navbar-brand {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    max-width: 150px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover, a:active {
+    text-decoration: underline;
+    color: blue;
+}
+
+
+h1 {
+    text-align: center;
+    color: #191970;
+    font-weight: bold;
+    font-size: 35px; 
+    border: 5px solid gold; 
+    padding: 5px; 
+    background-color: #E6E6FA;
+}
+
+.table table-bordered table-striped border-dark {
+    background-color: lightgray;
+    text-align: center;
+    padding: 8px 8px;
+}
+
+.tr-main {
+    text-align: center;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+thead {
+    background-color: #F0F0F0;
+}
+
+
+img {
+    border-radius: 15%;
+    width: 100%;
+    max-width: 170px;
+    height: auto;
+}
+
+#link {
+    color: blue;
+}

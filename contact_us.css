@@ -1,0 +1,42 @@
+body {
+    background-color: #F0FFF0;
+    padding: 10px;
+}
+
+.center {
+    display: block;
+    margin: 0 auto;
+    width: 40%;
+    max-width: 150px;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+
+a:active {
+    text-decoration: underline;
+    color: blue;
+}
+
+.table-borderless {
+    background-color: lightgray;
+    text-align: center;
+    padding: 8px 8px;
+}
+
+.tr-main {
+    text-align: center;
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+h6 {
+    color: black;
+}
